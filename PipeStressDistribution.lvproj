@@ -62,6 +62,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="NI_AAL_Geometry.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AAL_Geometry.lvlib"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -82,6 +83,7 @@
 			<Item Name="multi_eval_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/multi_eval_data.ctl"/>
 			<Item Name="MultiEvalFunction.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/MultiEvalFunction.vi"/>
 			<Item Name="random_between.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/random_between.vi"/>
+			<Item Name="reseter.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/reseter.vi"/>
 			<Item Name="Results.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Results.vi"/>
 			<Item Name="search_radius.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/search_radius.vi"/>
 			<Item Name="selection.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/selection.vi"/>

@@ -91,8 +91,6 @@
 			<Item Name="SetTermination.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/SetTermination.vi"/>
 			<Item Name="SimulatedAnnealing.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/SimulatedAnnealing.vi"/>
 			<Item Name="SimulatedAnnealing_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/SimulatedAnnealing_data.ctl"/>
-			<Item Name="TabelaConvergencia.vi" Type="VI" URL="../Code/Subrotinas/TabelaConvergencia.vi"/>
-			<Item Name="TableXYGraph.vi" Type="VI" URL="../Code/Subrotinas/TableXYGraph.vi"/>
 			<Item Name="termination.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/termination.vi"/>
 			<Item Name="termination_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/termination_data.ctl"/>
 		</Item>

@@ -1,0 +1,3 @@
+[submodule "Code/ExternalDependencies/AlgenLabVIEW"]
+	path = Code/ExternalDependencies/AlgenLabVIEW
+	url = https://github.com/LeonardoSirino/AlgenLabVIEW

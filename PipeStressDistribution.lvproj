@@ -71,28 +71,7 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Write JPEG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Write JPEG File.vi"/>
 			</Item>
-			<Item Name="basic_config.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/basic_config.ctl"/>
-			<Item Name="cost_evaluation.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/cost_evaluation.vi"/>
-			<Item Name="element.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/element.ctl"/>
-			<Item Name="Execution.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Execution.vi"/>
-			<Item Name="GenAlg_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/GenAlg_data.ctl"/>
-			<Item Name="generate_children.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/generate_children.vi"/>
-			<Item Name="geration_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/geration_data.ctl"/>
-			<Item Name="Initialization.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Initialization.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="multi_eval_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/multi_eval_data.ctl"/>
-			<Item Name="MultiEvalFunction.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/MultiEvalFunction.vi"/>
-			<Item Name="random_between.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/random_between.vi"/>
-			<Item Name="reseter.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/reseter.vi"/>
-			<Item Name="Results.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Results.vi"/>
-			<Item Name="search_radius.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/search_radius.vi"/>
-			<Item Name="selection.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/selection.vi"/>
-			<Item Name="selection_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/selection_data.ctl"/>
-			<Item Name="SetTermination.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/SetTermination.vi"/>
-			<Item Name="SimulatedAnnealing.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Advanced/SimulatedAnnealing.vi"/>
-			<Item Name="SimulatedAnnealing_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/SimulatedAnnealing_data.ctl"/>
-			<Item Name="termination.vi" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/Auxiliary/termination.vi"/>
-			<Item Name="termination_data.ctl" Type="VI" URL="../../../UserLibraries/AlgoritmoGenetico/TypeDefs/termination_data.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
